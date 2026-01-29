@@ -1,0 +1,7 @@
+necesitaremos tener instalado pytest
+
+ejecuccion del test:
+python -m pytest tests/test_core.py
+Uso: calc.py <operacion> <a> <b>
+python calc.py sub 5 2
+Operaciones: add, sub, mul, div, pow
