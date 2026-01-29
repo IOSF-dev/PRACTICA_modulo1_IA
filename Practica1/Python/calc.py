@@ -32,3 +32,4 @@ if __name__ == "__main__":
  #merge sub
  #merge mul
  #merge div
+ #merge pow
