@@ -30,3 +30,4 @@ if __name__ == "__main__":
     main()
  #merge add
  #merge sub
+ #merge mul
